@@ -1,0 +1,5 @@
+D:/Projects_Cpp/LibJPEG/sln/ImgConverter/build/CMakeFiles/imgconv.dir
+D:/Projects_Cpp/LibJPEG/sln/ImgConverter/build/CMakeFiles/ALL_BUILD.dir
+D:/Projects_Cpp/LibJPEG/sln/ImgConverter/build/CMakeFiles/ZERO_CHECK.dir
+D:/Projects_Cpp/LibJPEG/sln/ImgConverter/build/ImgLibBuildDir/CMakeFiles/ImgLib.dir
+D:/Projects_Cpp/LibJPEG/sln/ImgConverter/build/ImgLibBuildDir/CMakeFiles/ALL_BUILD.dir

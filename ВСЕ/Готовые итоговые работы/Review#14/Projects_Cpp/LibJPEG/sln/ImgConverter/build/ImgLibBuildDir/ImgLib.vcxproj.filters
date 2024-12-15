@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\img_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\ppm_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\jpeg_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\bmp_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\img_lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\ppm_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\jpeg_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\bmp_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects_Cpp\LibJPEG\sln\ImgLib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B08CDC24-3732-3CCC-AE6D-B2E9A0C3996E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8615F530-38F5-38A3-806C-32EB67EA852E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
